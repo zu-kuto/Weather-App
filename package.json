@@ -1,0 +1,8 @@
+{
+  "name": "Weather-App",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ZuzkaK/Weather-App.git",
+  "author": "Zuzana Kůtová <zuzana.kutova@seznam.cz>",
+  "license": "MIT"
+}
